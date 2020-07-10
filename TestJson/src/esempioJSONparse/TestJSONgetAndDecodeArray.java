@@ -135,6 +135,7 @@ public class TestJSONgetAndDecodeArray {
 	Metadata metadata = gson.fromJson(data, Metadata.class);
 	
 	System.out.println(metadata.id);
+	System.out.println(metadata.id);
 	//System.out.println(metadata.PhotosObject.pagingObject.CursorsObject);
 	//String postMessage = metadata.getPhotosObject().getData().get(i).getMessage();
 	//String commentMessage = metadata.getPosts().getData().get(i).getComments().getData().get(i).getMessage();
