@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/jre1.8.0_241"/>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/Andrea/Downloads/json-simple-1.1.jar" sourcepath="C:/Users/Andrea/.m2/repository/com/googlecode/json-simple/json-simple/1.1/json-simple-1.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrea/Downloads/jackson-databind-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrea/Downloads/jackson-core-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrea/Downloads/jackson-annotations-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Andrea/Downloads/gson-2.8.2.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
